@@ -2,7 +2,7 @@ package mysql
 
 import (
 	"github.com/go-sql-driver/mysql"
-	"github.com/opentracing-contrib/sql"
+	"github.com/Heer0/sql"
 )
 
 // ParseDSN parses the given go-sql-driver/mysql datasource name.

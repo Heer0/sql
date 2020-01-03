@@ -1,7 +1,7 @@
 package sql
 
 import (
-	"github.com/opentracing-contrib/sql/sqlscanner"
+	"github.com/Heer0/sql/sqlscanner"
 	"strings"
 )
 

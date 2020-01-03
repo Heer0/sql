@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"database/sql/driver"
 	"fmt"
-	"github.com/opentracing-contrib/sql/sqlutil"
+	"github.com/Heer0/sql/sqlutil"
 	"sync"
 )
 

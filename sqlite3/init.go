@@ -2,7 +2,7 @@ package sqlite3
 
 import (
 	sqlite3 "github.com/mattn/go-sqlite3"
-	"github.com/opentracing-contrib/sql"
+	"github.com/Heer0/sql"
 )
 
 func init() {

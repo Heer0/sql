@@ -2,7 +2,7 @@ package pq
 
 import (
 	"fmt"
-	"github.com/opentracing-contrib/sql"
+	"github.com/Heer0/sql"
 	"net"
 	nurl "net/url"
 	"os"
