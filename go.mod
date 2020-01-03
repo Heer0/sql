@@ -1,4 +1,4 @@
-module github.com/opentracing-contrib/sql
+module github.com/Heer0/sql
 
 require (
 	github.com/go-sql-driver/mysql v1.4.1
